@@ -8,3 +8,5 @@ const reactLazy = (props) => {
         <anyFile />
     </>
 }
+
+export default reactLazy;
