@@ -1,4 +1,4 @@
-import React from react
+import React from 'react'
 import anyFile from './folder/anyFile'
 
 const reactLazy = (props) => {
